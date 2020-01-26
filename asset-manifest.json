@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/github.io/camera/static/css/main.69e497b2.chunk.css",
-    "main.js": "/github.io/camera/static/js/main.4b19a8b8.chunk.js",
-    "main.js.map": "/github.io/camera/static/js/main.4b19a8b8.chunk.js.map",
-    "runtime-main.js": "/github.io/camera/static/js/runtime-main.556ff879.js",
-    "runtime-main.js.map": "/github.io/camera/static/js/runtime-main.556ff879.js.map",
-    "static/css/2.579cba5a.chunk.css": "/github.io/camera/static/css/2.579cba5a.chunk.css",
-    "static/js/2.0b511ebd.chunk.js": "/github.io/camera/static/js/2.0b511ebd.chunk.js",
-    "static/js/2.0b511ebd.chunk.js.map": "/github.io/camera/static/js/2.0b511ebd.chunk.js.map",
-    "index.html": "/github.io/camera/index.html",
-    "precache-manifest.9819847a2ba231ca737e6bc5b33f827c.js": "/github.io/camera/precache-manifest.9819847a2ba231ca737e6bc5b33f827c.js",
-    "service-worker.js": "/github.io/camera/service-worker.js",
-    "static/css/2.579cba5a.chunk.css.map": "/github.io/camera/static/css/2.579cba5a.chunk.css.map",
-    "static/css/main.69e497b2.chunk.css.map": "/github.io/camera/static/css/main.69e497b2.chunk.css.map",
-    "static/js/2.0b511ebd.chunk.js.LICENSE": "/github.io/camera/static/js/2.0b511ebd.chunk.js.LICENSE",
-    "static/media/all.css": "/github.io/camera/static/media/fa-solid-900.f6121be5.woff2"
+    "main.css": "/camera/static/css/main.69e497b2.chunk.css",
+    "main.js": "/camera/static/js/main.590f2158.chunk.js",
+    "main.js.map": "/camera/static/js/main.590f2158.chunk.js.map",
+    "runtime-main.js": "/camera/static/js/runtime-main.9ea17051.js",
+    "runtime-main.js.map": "/camera/static/js/runtime-main.9ea17051.js.map",
+    "static/css/2.eddb2cc2.chunk.css": "/camera/static/css/2.eddb2cc2.chunk.css",
+    "static/js/2.0b511ebd.chunk.js": "/camera/static/js/2.0b511ebd.chunk.js",
+    "static/js/2.0b511ebd.chunk.js.map": "/camera/static/js/2.0b511ebd.chunk.js.map",
+    "index.html": "/camera/index.html",
+    "precache-manifest.5be6f19740455c23743b5107f28d4633.js": "/camera/precache-manifest.5be6f19740455c23743b5107f28d4633.js",
+    "service-worker.js": "/camera/service-worker.js",
+    "static/css/2.eddb2cc2.chunk.css.map": "/camera/static/css/2.eddb2cc2.chunk.css.map",
+    "static/css/main.69e497b2.chunk.css.map": "/camera/static/css/main.69e497b2.chunk.css.map",
+    "static/js/2.0b511ebd.chunk.js.LICENSE": "/camera/static/js/2.0b511ebd.chunk.js.LICENSE",
+    "static/media/all.css": "/camera/static/media/fa-solid-900.f6121be5.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.556ff879.js",
-    "static/css/2.579cba5a.chunk.css",
+    "static/js/runtime-main.9ea17051.js",
+    "static/css/2.eddb2cc2.chunk.css",
     "static/js/2.0b511ebd.chunk.js",
     "static/css/main.69e497b2.chunk.css",
-    "static/js/main.4b19a8b8.chunk.js"
+    "static/js/main.590f2158.chunk.js"
   ]
 }
