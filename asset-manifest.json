@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/camera/static/css/main.69e497b2.chunk.css",
+    "main.js": "/camera/static/js/main.61be089e.chunk.js",
+    "main.js.map": "/camera/static/js/main.61be089e.chunk.js.map",
+    "runtime-main.js": "/camera/static/js/runtime-main.9ea17051.js",
+    "runtime-main.js.map": "/camera/static/js/runtime-main.9ea17051.js.map",
+    "static/css/2.eddb2cc2.chunk.css": "/camera/static/css/2.eddb2cc2.chunk.css",
+    "static/js/2.0b511ebd.chunk.js": "/camera/static/js/2.0b511ebd.chunk.js",
+    "static/js/2.0b511ebd.chunk.js.map": "/camera/static/js/2.0b511ebd.chunk.js.map",
+    "index.html": "/camera/index.html",
+    "precache-manifest.53e22a83cd53593ebedc82368ba9b8aa.js": "/camera/precache-manifest.53e22a83cd53593ebedc82368ba9b8aa.js",
+    "service-worker.js": "/camera/service-worker.js",
+    "static/css/2.eddb2cc2.chunk.css.map": "/camera/static/css/2.eddb2cc2.chunk.css.map",
+    "static/css/main.69e497b2.chunk.css.map": "/camera/static/css/main.69e497b2.chunk.css.map",
+    "static/js/2.0b511ebd.chunk.js.LICENSE": "/camera/static/js/2.0b511ebd.chunk.js.LICENSE",
+    "static/media/all.css": "/camera/static/media/fa-solid-900.f6121be5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ea17051.js",
+    "static/css/2.eddb2cc2.chunk.css",
+    "static/js/2.0b511ebd.chunk.js",
+    "static/css/main.69e497b2.chunk.css",
+    "static/js/main.61be089e.chunk.js"
+  ]
+}
