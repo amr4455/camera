@@ -1,7 +1,7 @@
 export const storeProduct = [
     {
         id:1,
-        img:"https://amr4455.github.io/camera/public/img/camera01.jpg",
+        img:"./img/camera01.jpg",
         title:"camera s1",
         price:140,
         company:"camera pro",
@@ -13,7 +13,7 @@ export const storeProduct = [
     },
     {
         id:2,
-        img:"https://amr4455.github.io/camera/public/img/camera02.jpg",
+        img:"./img/camera02.jpg",
         title:"camera s2",
         price:33,
         company:"amera fan",
@@ -25,7 +25,7 @@ export const storeProduct = [
     },
     {
         id:3,
-        img:"https://amr4455.github.io/camera/public/img/camera03.jpg",
+        img:"./img/camera03.jpg",
         title:"camera s3",
         price:500,
         company:"google",
@@ -37,7 +37,7 @@ export const storeProduct = [
     },
     {
         id:4,
-        img:"https://amr4455.github.io/camera/public/img/camera04.jpg",
+        img:"./img/camera04.jpg",
         title:"camera s4",
         price:18,
         company:"google",
@@ -49,7 +49,7 @@ export const storeProduct = [
     },
     {
         id:5,
-        img:"https://amr4455.github.io/camera/public/img/camera05.jpg",
+        img:"./img/camera05.jpg",
         title:"camera s5",
         price:12,
         company:"google",
@@ -61,7 +61,7 @@ export const storeProduct = [
     },
     {
         id:6,
-        img:"https://amr4455.github.io/camera/public/img/camera06.jpg",
+        img:"./img/camera06.jpg",
         price:10,
         title:"camera s6",
         company:"google",
@@ -76,7 +76,7 @@ export const storeProduct = [
 ];
 export const detailProduct = {
     id:1,
-    img:"https://amr4455.github.io/camera/public/img/camera01.jpg",
+    img:"./img/camera01.jpg",
     title:"camera s1",
     price:10,
     company:"camera pro",

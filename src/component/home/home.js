@@ -6,7 +6,7 @@ const Home = ({title}) => {
   
      <header className="header row ">
      <div className="header-img col-md-6">
-       <img src="https://amr4455.github.io/camera/public/img/home-img.png" alt="camera"/>
+       <img src="./puplic/img/home-img.png" alt="camera"/>
      </div>
      <div className="header-content col-md-6">
        <h1 className="display-3">{title}</h1>
